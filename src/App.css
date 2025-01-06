@@ -1,0 +1,54 @@
+.gradient-button {
+    background: linear-gradient(to right, rgb(196, 71, 196), orange);
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+  }
+  
+
+  .gradient-text {
+    background: linear-gradient(to right, rgb(228, 38, 218), orange);
+    -webkit-background-clip: text;
+    color: transparent;
+
+    
+    font-weight: 800;
+  }
+  
+.navbar{
+    box-shadow: 3px 3px 3px 3px rgb(226, 225, 225);
+}
+
+.fm1{
+    border-radius : 20px;
+    border: 2px solid purple;
+    max-width: 50%;
+    box-shadow: 2px 2px 2px 2px rgb(205, 169, 205);
+}
+
+.input-group-text{
+    border-radius : 20px;
+    border: 2px solid rgb(255, 119, 0);
+    box-shadow: 2px 2px 2px 2px rgb(244, 205, 172);
+}
+
+.dropdown-filter{
+    color: rgb(70, 70, 205);
+    font-weight: 800;
+}
+
+
+.dropdown-filter-button{
+    border: 2px solid rgb(134, 42, 240);
+    border-radius: 20px;
+    width: 15rem;
+    box-shadow: 1px 1px 1px 1px rgb(134, 42, 240);
+}
+
+
+.home-categories-container{
+    box-shadow:  0px 0px 10px 5px rgba(247, 114, 236, 0.5);
+    border: 1px solid gray;
+    border-radius: 15px;
+}
